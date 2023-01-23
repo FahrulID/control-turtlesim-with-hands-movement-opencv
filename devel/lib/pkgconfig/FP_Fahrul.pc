@@ -1,0 +1,8 @@
+prefix=/home/fahrul/Fahrul/Projects/Bayucaraka/Final Project/FP_Fahrul/devel
+
+Name: FP_Fahrul
+Description: Description of FP_Fahrul
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
